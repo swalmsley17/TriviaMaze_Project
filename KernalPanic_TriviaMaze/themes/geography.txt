@@ -1,0 +1,16 @@
+geography
+What is the tallest mountian in the world?
+a. Mt. Everest,b. Mt. McKinley,c. K2,d. Mt. Rainier
+a
+Is Antarctica considered a desert?
+True,False
+T
+What is the deepest canyon in north america?
+a. The Grand Canyon,b. Hells Canyon,c. Glen Canyon,d. Bryce Canyon
+b
+The widest canyon in north america is:
+a. The Grand Canyon,b. Hells Canyon,c. Glen Canyon,d. Bryce Canyon
+a
+The dryest place on earth is:
+a. The Saharra,b. Death Valley,c. The Atacama Desert,d. Gobi Desert
+c
